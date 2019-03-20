@@ -29,7 +29,7 @@
   <div class="container-fluid padding">
     <div class="row jumbotron bg-light fade-short">
       <div class="col-md-10 col-lg-10 col-xl-10">
-        <p class="lead">This website is dedicated to my self, and it contains all necessary information about me. In the skill segment you can find all the skills I posses and the given skills I have mastered. In the experience segment you can check all my previous work experience out. In the about segment you can find out a bit more about me.</p>
+        <p class="lead">This website is dedicated to myself, and it contains all necessary information about me. In the skill segment you can find all of the skills I posses and the given skills I have mastered. In the experience segment you can check all of my previous work experience out. In the about segment you can find out a bit more about me.</p>
       </div>
       <div class="col-md-1 col-lg-1 col-xl-1">
         <a class="btn btn-outline-secondary btn-lg ml-1" type="button" href="about.php">More Info ..</a>

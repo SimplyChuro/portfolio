@@ -61,7 +61,7 @@
             <div class="card-body">
               <ul class="custom-list pl-2">
                 <li><span class="card-indication-text">Communication Skills in English:</span> High proficiency in communicating and motivating people using the English language</li>
-                <li><span class="card-indication-text">Communication Skills in German:</span> Decent proficiency in communicating with people in the Germain language </li>
+                <li><span class="card-indication-text">Communication Skills in German:</span> Decent proficiency in communicating with people in the German language </li>
                 <li><span class="card-indication-text">Reliable and filled with determination:</span> Strong determination and moral conducts enabling a strong reliable workflow.</li>
                 <li><span class="card-indication-text">Flexible and Patient:</span> Able to align myself with the needs of others and able to work accordingly to their needs above my own, therefore able to stay cool and collected under pressure.</li>
               </ul>
