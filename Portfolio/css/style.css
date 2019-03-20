@@ -1,0 +1,253 @@
+/*Document settings*/
+body {
+	font-family: 'Arsenal';
+  font-size: 16px;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+a, a:active, a:focus, button, button:hover, button:active, button:focus {
+  outline: none;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+}
+
+/*Global Shadow */
+.textShadow {
+  text-shadow: 5px 4px 0px rgba(0,0,0,0.15);
+}
+
+
+/*Fade*/
+.fade-short {
+  position: relative;
+  animation-name: fade;
+  animation-duration: 0.5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+
+.fade-medium {
+  position: relative;
+  animation-name: fade;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+
+.fade-long {
+  position: relative;
+  animation-name: fade;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+
+
+/*Animations*/
+
+/*Intro text animation, location.slider*/
+@keyframes fade {
+  
+  0%{
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 1;
+  }
+
+}
+
+.material-icons, .icon-text {
+  vertical-align: middle !important;
+  padding-bottom: 3px;
+}
+
+
+
+/*Header Design*/
+#logoimage {
+	height: 50px;
+}
+
+.navbar-nav li {
+	padding-right: 0.5rem;
+}
+
+.navbar-brand {
+	font-size: 1.8rem;
+}
+
+.nav-link {
+	font-size: 1.2rem !important;
+}
+
+.mlc-3 {
+  margin-left: 20px;
+}
+
+.portfolio-text {
+  letter-spacing: 1px;
+}
+
+.nav-link-spacing {
+  letter-spacing: 0.66px;
+}
+
+
+
+/*Home Page design*/
+
+#slider {
+  height: 36vw;
+}
+
+.image {
+  height: 36vw;
+  filter: brightness(70%);
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 30%;
+}
+
+.carousel-caption p {
+	font-size: 1.2rem;
+}
+
+.mbc-10 {
+  margin-bottom: 100px
+}
+
+.mbc-20 {
+  margin-bottom: 200px
+}
+
+
+
+/*Skill Page Design*/
+
+.custom-list li {
+  font-size: 18px;
+  letter-spacing: 0.33px;
+}
+
+.card-indication-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mtc-10 {
+  margin-top: 100px;
+}
+
+
+
+/*Footer Design*/
+
+.footer {
+	padding: 35px 40px 10px 40px;
+	margin-top: 65px;
+}
+
+.hr-light {
+	color: #fff;
+	background-color: #fff;
+}
+
+.footer-padding {
+	padding: 15px 50px 55px 50px;
+}
+
+.linked-d {
+  color: #fff;
+  font-size: 2.3rem;
+  margin: 25px 25px 10px 25px;
+}
+
+.google-d {
+  color: #db4437;
+  font-size: 2.3rem;
+  margin: 25px 25px 10px 25px;
+}
+
+.youtube-d {
+  color: #ff0000;
+  font-size: 2.3rem;
+  margin: 25px 25px 10px 25px;
+}
+
+
+
+/*Responsive section*/
+
+@media(max-width: 1440px) {
+
+  #slider {
+    height: 40vw;
+  }
+
+  .image {
+    height: 40vw;
+  }
+
+}
+
+@media(max-width: 968px) {
+
+  #slider {
+    height: 45vw;
+  }
+
+  .image {
+    height: 45vw;
+  }
+
+  .mlc-3 {
+    margin-left: 0px;
+  }
+
+}
+
+@media(max-width: 640px) {
+
+  #slider {
+    height: 70vw;
+  }
+
+  .image {
+    height: 70vw;
+  }
+
+  .mlc-3 {
+    margin-left: 0px;
+  }
+
+}
