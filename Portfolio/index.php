@@ -63,7 +63,7 @@
             <h1 class="display-6 text-center">Android App Development</h1>
           </div>
           <div class="card-body">
-            <p class="card-text">Android Applications which untilize multiple tools such as Firebase and XML alongside the programming language Java, and the GUI coding language XML.</p>
+            <p class="card-text">Android Applications which untilize multiple tools such as Firebase and AWS alongside the programming language Java, and the GUI coding language XML.</p>
             <a href="skills.php" class="btn btn-outline-secondary">More info</a>
           </div>
         </div>
