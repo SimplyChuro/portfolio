@@ -32,10 +32,10 @@
                   <ul class="custom-list card-text pl-2">
                     <li>Java OOP/Desktop software development</li>
                     <li>Android App Development</li>
-                    <li>Full Stack Web Development (Ember.js, Play Framework, Cloud Computing)</li>
+                    <li>Full Stack Web Development (Ember.js, Angular 2+, Play Framework, Spring Boot, Cloud Computing)</li>
                     <li>Database Management (MySQL, SQLite, PostgreSQL, MongoDB)</li>
                     <li>Git/Bash shell usage and experience</li>
-                    <li>Scripting (JavaScript)</li>
+                    <li>Scripting (JavaScript, Typescript)</li>
                   </ul>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
